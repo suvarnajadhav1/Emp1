@@ -7,6 +7,7 @@ class Emp1
 	double Empsalary;
 	long Contact;
 	boolean iffresher;
+edrftgyhujikoldrfgyhujikolp;[sxcfvgbhnjmk,l.;vbghn;fvgbhunjmiko,lp.;
 
 	Empid=12345;
     Empname="kiran";
